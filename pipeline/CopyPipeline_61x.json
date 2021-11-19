@@ -24,44 +24,8 @@
 					}
 				],
 				"typeProperties": {
-					"source": {
-						"type": "DelimitedTextSource",
-						"storeSettings": {
-							"type": "AzureBlobStorageReadSettings",
-							"recursive": true,
-							"enablePartitionDiscovery": false
-						},
-						"formatSettings": {
-							"type": "DelimitedTextReadSettings",
-							"skipLineCount": 0
-						}
-					},
-					"sink": {
-						"type": "DelimitedTextSink",
-						"storeSettings": {
-							"type": "AzureBlobStorageWriteSettings"
-						},
-						"formatSettings": {
-							"type": "DelimitedTextWriteSettings",
-							"quoteAllText": true,
-							"fileExtension": ".txt"
-						}
-					},
-					"enableStaging": false,
-					"validateDataConsistency": false
-				},
-				"inputs": [
-					{
-						"referenceName": "SourceDataset_61x",
-						"type": "DatasetReference"
-					}
-				],
-				"outputs": [
-					{
-						"referenceName": "SourceDataset_61x",
-						"type": "DatasetReference"
-					}
-				]
+					"enableStaging": false
+				}
 			}
 		],
 		"annotations": []
