@@ -13,7 +13,7 @@
 				"fileName": "Budget Lines.csv",
 				"container": "new1119"
 			},
-			"compressionCodec": "snappy"
+			"compressionCodec": "none"
 		},
 		"schema": []
 	}
