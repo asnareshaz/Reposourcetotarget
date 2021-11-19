@@ -36,11 +36,24 @@
 							"skipLineCount": 0
 						}
 					},
-					"enableStaging": false
+					"sink": {
+						"type": "BinarySink",
+						"storeSettings": {
+							"type": "AzureBlobStorageWriteSettings"
+						}
+					},
+					"enableStaging": false,
+					"validateDataConsistency": false
 				},
 				"inputs": [
 					{
 						"referenceName": "SourceDataset_61x",
+						"type": "DatasetReference"
+					}
+				],
+				"outputs": [
+					{
+						"referenceName": "Binary1",
 						"type": "DatasetReference"
 					}
 				]
