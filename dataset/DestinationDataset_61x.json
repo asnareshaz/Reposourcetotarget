@@ -1,0 +1,20 @@
+{
+	"name": "DestinationDataset_61x",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Parquet",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "Budget Lines.csv",
+				"container": "new1119"
+			},
+			"compressionCodec": "snappy"
+		},
+		"schema": []
+	}
+}
