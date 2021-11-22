@@ -40,10 +40,16 @@ Azure Data Factory is a cloud-based data integration service for creating ETL (E
 ![image](https://user-images.githubusercontent.com/94681830/142825597-fee510eb-3b9b-4517-8958-104da3fafb63.png)
 2.  New containers created under storage account
 ![image](https://user-images.githubusercontent.com/94681830/142822989-3fb03564-877b-4ece-a86e-e217572ec472.png)
-3.  Budget Lines were copied from local to New1117 container .
+3.  Budget Lines data were copied from local to New1117 container .
 ![image](https://user-images.githubusercontent.com/94681830/142823319-e40f536b-4a89-4373-9c39-8d9a842f3a94.png)
 4.  Budget Lines empty file were created in New1119 container.
 ![image](https://user-images.githubusercontent.com/94681830/142824437-4c2d6800-d207-48a4-a061-0febe44cb1e9.png)
+4.  Click on Azure Data Factory Studio.
+![image](https://user-images.githubusercontent.com/94681830/142826301-ca498b07-0525-4295-a629-f7ed64728776.png)
+4.  Under the left menu Factory Resources is where you can find all the available pipelines,datasets & activities.
+![image](https://user-images.githubusercontent.com/94681830/142826687-824e5639-6c23-4cbf-8adc-c89ef11f5f67.png)
+The Pipeline has the following workflow
+![image](https://user-images.githubusercontent.com/94681830/142827506-276b2de2-4f42-4a0a-a3ed-798a74fc5db9.png)
 
 
 
