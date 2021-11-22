@@ -27,7 +27,7 @@ ProjectNumber
 Rank
 Budget Check Disabled
 
-**.**Automation of the pipeline to be able to check the state of the last pipeline run
+Automation of the pipeline to be able to check the state of the last pipeline run
 
 
 
