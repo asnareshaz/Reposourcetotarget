@@ -31,12 +31,10 @@ Azure Data Factory is a cloud-based data integration service for creating ETL (E
 
 **Getting Started**
 
-![image](https://user-images.githubusercontent.com/94681830/142822989-3fb03564-877b-4ece-a86e-e217572ec472.png)
-
-
 1.	Required to have Azure with Windows Server to host Azure Data Factory.
 2.	On the Azure Windows, some raw data were copied into this Flatfiles to simulate the scenario of raw data at the edge machine. We use azcopy tool to perform the data transfer     from Blob storage to Azure.
 3.	Once we have the raw data on Azure, we create different pipelines to transfer these data to test container on Azure Blob Storage.
+![image](https://user-images.githubusercontent.com/94681830/142822989-3fb03564-877b-4ece-a86e-e217572ec472.png)
 
 
 
