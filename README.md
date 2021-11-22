@@ -48,8 +48,9 @@ Azure Data Factory is a cloud-based data integration service for creating ETL (E
 ![image](https://user-images.githubusercontent.com/94681830/142826301-ca498b07-0525-4295-a629-f7ed64728776.png)
 4.  Under the left menu Factory Resources is where you can find all the available pipelines,datasets & activities.
 ![image](https://user-images.githubusercontent.com/94681830/142826687-824e5639-6c23-4cbf-8adc-c89ef11f5f67.png)
-The Pipeline has the following workflow
+5.  The Pipeline has the following workflow
 ![image](https://user-images.githubusercontent.com/94681830/142827506-276b2de2-4f42-4a0a-a3ed-798a74fc5db9.png)
+6.  Data were copied into other file
 
 
 
