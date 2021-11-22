@@ -43,6 +43,7 @@ Azure Data Factory is a cloud-based data integration service for creating ETL (E
 3.  Budget Lines data were copied from local to New1117 container .
 ![image](https://user-images.githubusercontent.com/94681830/142823319-e40f536b-4a89-4373-9c39-8d9a842f3a94.png)
 4.  Budget Lines empty file were created in New1119 container.
+![image](https://user-images.githubusercontent.com/94681830/142829553-1697e948-b2e0-46c5-9edb-ab5186ac077a.png)
 ![image](https://user-images.githubusercontent.com/94681830/142824437-4c2d6800-d207-48a4-a061-0febe44cb1e9.png)
 4.  Click on Azure Data Factory Studio.
 ![image](https://user-images.githubusercontent.com/94681830/142826301-ca498b07-0525-4295-a629-f7ed64728776.png)
@@ -51,6 +52,7 @@ Azure Data Factory is a cloud-based data integration service for creating ETL (E
 5.  The Pipeline has the following workflow
 ![image](https://user-images.githubusercontent.com/94681830/142827506-276b2de2-4f42-4a0a-a3ed-798a74fc5db9.png)
 6.  Data were copied into other file
+![image](https://user-images.githubusercontent.com/94681830/142829447-6254cb70-0ccf-4526-932b-b050eef44422.png)
 
 
 
