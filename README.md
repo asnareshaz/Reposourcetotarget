@@ -10,24 +10,26 @@ Azure Data Factory is a cloud-based data integration service for creating ETL (E
 
 **Requirement**
 
-Create, run and manage pipelines for data transfer between Azure blob storage & Azure Blob Storage.
+•	Create, run and manage pipelines for data transfer between Azure blob storage & Azure Blob Storage.
 
-Line Number
-Budget Code
-PurchaseOrg
-PurchaseGroup
-CompanyCode
-CostCenter
-GeneralLedger
-WBSElement
-Asset
-SubNumber
-InternalOrder
-ProjectNumber
-Rank
-Budget Check Disabled
+1.	Line Number
+2.	Budget Code
+3.	PurchaseOrg
+4.	PurchaseGroup
+5.	CompanyCode
+6.	CostCenter
+7.	GeneralLedger
+8.	WBSElement
+9.	Asset
+10.	SubNumber
+11.	InternalOrder
+12.	ProjectNumber
+13.	Rank
+14.	Budget Check Disabled
 
-Automation of the pipeline to be able to check the state of the last pipeline run
+•	Automation of the pipeline to be able to check the state of the last pipeline run
+
+
 
 
 
