@@ -38,10 +38,11 @@ Azure Data Factory is a cloud-based data integration service for creating ETL (E
 **Build and Test**
 1.  Navigate to Azure Data Factory portal, This Azure Data Factory is running on the Windows Server. Click on Author & Monitor to open the editor mode of Azure Data Factory. 
 ![image](https://user-images.githubusercontent.com/94681830/142825597-fee510eb-3b9b-4517-8958-104da3fafb63.png)
+2.  New containers created under storage account
 ![image](https://user-images.githubusercontent.com/94681830/142822989-3fb03564-877b-4ece-a86e-e217572ec472.png)
-2.  Budget Lines were copied from local to New1117 container .
+3.  Budget Lines were copied from local to New1117 container .
 ![image](https://user-images.githubusercontent.com/94681830/142823319-e40f536b-4a89-4373-9c39-8d9a842f3a94.png)
-3.  Budget Lines empty file were created in New1119 container.
+4.  Budget Lines empty file were created in New1119 container.
 ![image](https://user-images.githubusercontent.com/94681830/142824437-4c2d6800-d207-48a4-a061-0febe44cb1e9.png)
 
 
