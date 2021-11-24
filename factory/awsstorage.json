@@ -1,0 +1,9 @@
+{
+	"name": "awsstorage",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "856fd3bc-2255-43f4-a376-3e9b0f20ce18",
+		"tenantId": "4f54795e-8971-4420-a110-95e7d6fd5d78"
+	}
+}
