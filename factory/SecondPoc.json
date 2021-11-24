@@ -1,0 +1,9 @@
+{
+	"name": "SecondPoc",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dd21e09f-b32d-42e5-bf0b-62798a38878b",
+		"tenantId": "4f54795e-8971-4420-a110-95e7d6fd5d78"
+	}
+}
