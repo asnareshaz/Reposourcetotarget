@@ -6,10 +6,10 @@
 		"type": "AzureBlobStorage",
 		"typeProperties": {
 			"connectionString": "DefaultEndpointsProtocol=https;AccountName=john1117;EndpointSuffix=core.windows.net;",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiJjN2NjNDU3NS05NGI5LTRhNmEtYjUyNC1hYWU4ZDU2NTk4ZmIiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI4NmM4MThiOS1jZjY3LTRiMGUtYTBhMS1jYzU5YTVlNDZhNWUiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
-			"referenceName": "selfhostedintegrationRuntime1",
+			"referenceName": "integrationRuntime25",
 			"type": "IntegrationRuntimeReference"
 		}
 	}
