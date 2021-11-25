@@ -6,10 +6,10 @@
 		"type": "MySql",
 		"typeProperties": {
 			"connectionString": "server=127.0.0.1;port=3306;database=poc;user=root;sslmode=1;usesystemtruststore=0",
-			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI5MTM2N2JmNi0xMTFiLTRjYjEtYTE1Yy1jNTNmYjE3ODJhZTMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI0MWJiMjJjYy1iZDM3LTQ4MTgtYTAwMC1mNDA0M2ZlOTc3YmMiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
 		},
 		"connectVia": {
-			"referenceName": "selfhostedintegrationRuntime1",
+			"referenceName": "integrationRuntime25",
 			"type": "IntegrationRuntimeReference"
 		}
 	}
