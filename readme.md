@@ -27,12 +27,14 @@ Azure Data Factory is a cloud-based data integration service for creating ETL (E
 
 **Getting Started**
 1.	Required to have  MySql to host Azure Data Factory.
-2.	On the Azure Windows, some raw data were copied into this Budget_Lines table to simulate the scenario of raw data at the MySql . We use azcopy tool to perform the data transfer from MySql to Azure Blob.
-3.	Once we have the raw data on Azure, we create different pipelines to transfer these data to test container on Azure Blob Storage.
+2.	On the Azure Windows, some raw data were copied into this Budget_Lines table to simulate the scenario of raw data at the MySql .
+3.	We use azcopy tool to perform the data transfer from MySql to Azure Blob.
+4.	Once we have the raw data on Azure, we create different pipelines to transfer these data to test container on Azure Blob Storage.
 
 **Build and Test**
 1.	Login to MySql and create required table in database
 ![image](https://user-images.githubusercontent.com/94681830/143833431-33544836-8bef-4ef8-b682-0938c9d9eaf7.png)
+
 2.Navigate to Azure Data Factory portal, This Azure Data Factory is running on the Windows Server. Click on Author & Monitor to open the editor mode of Azure Data Factory.
 
 ![image](https://user-images.githubusercontent.com/94681830/143833750-c1d66b4c-92b6-4b28-a07c-594b5074f41c.png)
@@ -51,9 +53,11 @@ Azure Data Factory is a cloud-based data integration service for creating ETL (E
 a.	Dataset details using Linked service for MySql
 
 ![image](https://user-images.githubusercontent.com/94681830/143834629-5e1b721a-1ee8-44f5-9fc0-77579fad543f.png)
+
 ![image](https://user-images.githubusercontent.com/94681830/143834808-c9f9a9b1-01c9-4043-ac70-ae98abc83683.png)
 
 b.Selfhosted integration runtime details.
+
 ![image](https://user-images.githubusercontent.com/94681830/143834902-a4723be9-177c-4ed8-9833-e6f417712387.png)
 
 c.Click here to install self hosted integration in windows.
